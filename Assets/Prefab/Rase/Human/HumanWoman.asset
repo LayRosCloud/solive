@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ceac58a6bca8144bf7ed018a860d31, type: 3}
+  m_Name: HumanWoman
+  m_EditorClassIdentifier: 
+  Hairs:
+  - {fileID: -1425571770, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  - {fileID: 1031385871, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  - {fileID: 1229578489, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  Heads:
+  - {fileID: 821642232, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  Bodys:
+  - {fileID: 580298478, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  - {fileID: -1595662531, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  - {fileID: 1779441478, guid: eaebf1c97fe7a3a42a633afeedecd976, type: 3}
+  Names:
+  - "\u0412\u0438\u0442\u0430\u043B\u044F"
+  - "\u0412\u0438\u0442\u0430\u043B\u044F2"
